@@ -1,0 +1,205 @@
+<DUCKS>
+   <ADUCK ID="id_1">
+      <NAME lang="English">Daisy Duck</NAME>
+      <NAME lang="German">Daisy Duck</NAME>
+      <NAME lang="Danish">Andersine And</NAME>
+      <NAME lang="Italian">Paperina</NAME>
+      <NAME lang="Indonesian">Desi</NAME>
+      <NAME lang="Lithuanian">Deizija</NAME>
+      <BERUF>Freundin und Tante</BERUF>
+      <PIC>DAISY.jpg</PIC>
+   </ADUCK>
+   <ADUCK ID="id_2">
+      <NAME lang="English">Donald Duck</NAME>
+      <NAME lang="German">Donald Duck</NAME>
+      <NAME lang="Danish">Anders And</NAME>
+      <NAME lang="Estonian">Piilupart Donald</NAME>
+      <NAME lang="Faroer">Dunnaldur Dunna</NAME>
+      <NAME lang="Finnish">Aku Ankka</NAME>
+      <NAME lang="Italian">Paperino</NAME>
+      <NAME lang="Latin">Donaldus Anas</NAME>
+      <NAME lang="Lithuanian">Antulis Donaldas</NAME>
+      <NAME lang="Polish">Kaczor Donald</NAME>
+      <NAME lang="Serbian">Paja Patak</NAME>
+      <BERUF>Neffe; arm aber gluecklich</BERUF>
+      <PIC>DONALD.jpg</PIC>
+   </ADUCK>
+   <ADUCK ID="id_3">
+      <NAME lang="English">Scrooge McDuck</NAME>
+      <NAME lang="German">Dagobert Duck</NAME>
+      <NAME lang="Estonian">Onu Robert</NAME>
+      <NAME lang="Danish">Onkel Joakim</NAME>
+      <NAME lang="Italian">Zio Paperone</NAME>
+      <NAME lang="French">Oncle Picsou</NAME>
+      <NAME lang="Spanish">Tio Rico</NAME>
+      <NAME lang="Croatian">Tvrdica McTwrdy</NAME>
+      <NAME lang="Indonesian">Paman Gober</NAME>
+      <NAME lang="Norwegian">Onkel Skrue</NAME>
+      <NAME lang="Romanian">Unchiul Scrooge</NAME>
+      <NAME lang="Swedish">Farbror Joakim</NAME>
+      <NAME lang="Turkish">Varyemez Amca</NAME>
+      <NAME lang="Hungarian">Dagobert McCsip</NAME>
+      <NAME lang="Polish">Wujek Sknerus</NAME>
+      <NAME lang="Finnish">Roope-setae</NAME>
+      <BERUF>Zillionaer und reichste Ente der Welt</BERUF>
+      <PIC>DAGOBERT.jpg</PIC>
+   </ADUCK>
+   <ADUCK ID="id_4">
+      <NAME lang="English">Goofy</NAME>
+      <NAME lang="German">Goofy</NAME>
+      <NAME lang="Portugese">Pateta</NAME>
+      <NAME lang="Finnish">Hessu</NAME>
+      <NAME lang="Danish">Fedtmule</NAME>
+      <NAME lang="Estonian">Kupi</NAME>
+      <NAME lang="French">Dingo</NAME>
+      <NAME lang="Italian">Pippo</NAME>
+      <NAME lang="Lithuanian">Spruksts</NAME>
+      <NAME lang="Samish">Guhkesruoida</NAME>
+      <BERUF>Lebenskuenstler</BERUF>
+      <PIC>GOOFY.jpg</PIC>
+   </ADUCK>
+   <ADUCK ID="id_5">
+      <NAME lang="English">Huey</NAME>
+      <NAME lang="German">Tick</NAME>
+      <NAME lang="Finnish">Tupu</NAME>
+      <NAME lang="Italian">Qui</NAME>
+      <BERUF>Fieselschweifling</BERUF>
+      <PIC>HUEY.jpg</PIC>
+   </ADUCK>
+   <ADUCK ID="id_7">
+      <NAME lang="English">Louie</NAME>
+      <NAME lang="German">Trick</NAME>
+      <NAME lang="Finnish">Lupu</NAME>
+      <NAME lang="Italian">Qua</NAME>
+      <BERUF>Fieselschweifling</BERUF>
+      <PIC>LOUIE.jpg</PIC>
+   </ADUCK>
+   <ADUCK ID="id_14">
+      <NAME lang="English">Dewey</NAME>
+      <NAME lang="German">Track</NAME>
+      <NAME lang="Finnish">Hupu</NAME>
+      <NAME lang="Italian">Quo</NAME>
+      <BERUF>Fieselschweifling</BERUF>
+      <PIC>DEWEY.jpg</PIC>
+   </ADUCK>
+   <ADUCK ID="id_15">
+      <NAME lang="English">Grandma Duck</NAME>
+      <NAME lang="German">Oma Duck</NAME>
+      <NAME lang="Italian">Nonna Papera</NAME>
+      <NAME lang="Danish">Bedstemor And</NAME>
+      <NAME lang="Estonian">Pardimammi</NAME>
+      <NAME lang="Indonesian">Nenek Bebek</NAME>
+      <NAME lang="Croatian">Baka Kata</NAME>
+      <NAME lang="Polish">Babcia Kaczka</NAME>
+      <NAME lang="Swedish">Farmor Anka</NAME>
+      <NAME lang="Vietnamese">Vit Ba</NAME>
+      <NAME lang="Romanian">Bunica Duck</NAME>      
+      <NAME lang="Spanish">Abuela Pato</NAME>      
+      <BERUF>OMA</BERUF>
+      <PIC>OMA.jpg</PIC>
+   </ADUCK>
+   <ADUCK ID="id_16">
+      <NAME lang="English">Arizona Goof</NAME>
+      <NAME lang="German">Indiana Goof</NAME>
+      <NAME lang="Danish">Vildmule</NAME>
+      <NAME lang="Norwegian">Indiana Beinson</NAME>
+      <BERUF>Abenteurer</BERUF>
+      <PIC>ARIZONA_GOOF.jpg</PIC>
+   </ADUCK>
+   <ADUCK ID="id_17">
+      <NAME lang="English">Pluto</NAME>
+      <NAME lang="German">Pluto</NAME>
+      <BERUF>Hund (Wuff)</BERUF>
+      <PIC>PLUTO.jpg</PIC>
+   </ADUCK>
+   <ADUCK ID="id_18">
+      <NAME lang="English">Mickey Mouse</NAME>
+      <NAME lang="German">Micky Maus</NAME>
+      <NAME lang="Estonian">Miki Hiir</NAME>
+      <NAME lang="Italian">Topolino</NAME>
+      <NAME lang="Lithuanian">Peliukas Mikis</NAME>
+      <NAME lang="Swedish">Musse Pigg</NAME>
+      <NAME lang="Finnish">Mikki Hiiri</NAME>
+      <NAME lang="Turkish">Miki Fare</NAME>
+      <NAME lang="Hebrew">Miki ha-akhbar</NAME>
+      <NAME lang="Icelandish">Mikki Mus</NAME>
+      <NAME lang="Latvian">Mikijs</NAME>
+      <NAME lang="Polish">Myszka Miki</NAME>
+      <NAME lang="Swedish">Musse Pigg</NAME>
+      <NAME lang="Vietnamese">Chuot Mickey</NAME>
+      <NAME lang="indonesian">Miki Tikus</NAME>
+      <NAME lang="Ukrainian">MiKKi Mayc</NAME>
+      <BERUF>Held</BERUF>
+      <PIC>MICKEY.jpg</PIC>
+   </ADUCK>
+   <ADUCK ID="id_19">
+      <NAME lang="English">Minnie Mouse</NAME>
+      <NAME lang="German">Minni Maus</NAME>
+      <NAME lang="Finnish">Minni Hiiri</NAME>
+      <NAME lang="Polish">Myszka Minnie</NAME>
+      <NAME lang="French Canadian">Mignonne</NAME>
+      <BERUF>Heldenfreundin</BERUF>
+      <PIC>MINNIE.jpg</PIC>
+   </ADUCK>
+   <ADUCK ID="id_20">
+      <NAME lang="English">Launchpad McQuack</NAME>
+      <NAME lang="German">Quack</NAME>
+      <NAME lang="Danish">Max Motor</NAME>
+      <NAME lang="Dutch">Turbo McKwek</NAME>
+      <NAME lang="Italian">Jet McQuack</NAME>
+      <NAME lang="French">Flagada Jones</NAME>
+      <BERUF>Any landing you can walk away from - is a good landing</BERUF>
+      <PIC>LAUNCHPAD.jpg</PIC>
+   </ADUCK>
+   <ADUCK ID="id_21">
+      <NAME lang="English">Ludwig von Drake</NAME>
+      <NAME lang="German">Primus von Quack</NAME>
+      <NAME lang="Swedish">Ludvig von Anka</NAME>
+      <NAME lang="Dutch">Otto van Drakenstein</NAME>
+      <NAME lang="Italian">Pico de Paperis</NAME>
+      <NAME lang="Spanish">Perico Librote</NAME>
+      <BERUF>Weiss Alles</BERUF>
+      <PIC>PRIMUS_VON_QUACK.jpg</PIC>
+   </ADUCK>
+   <ADUCK ID="id_22">
+      <NAME lang="English">Gyro Gearloose</NAME>
+      <NAME lang="German">Daniel Duesentrieb</NAME>
+      <NAME lang="Estonian">Leidur Leo</NAME>
+      <NAME lang="Italian">Archimede</NAME>
+      <NAME lang="Islandic">Georg Girlaus</NAME>
+      <NAME lang="Indonesian">Lang Ling-Lung</NAME>
+      <BERUF>Unmoegliches mache ich sofort - wo war doch gleich mein Hut ?</BERUF>
+      <PIC>DANIEL_DUESENTRIEB.jpg</PIC>
+   </ADUCK>
+   <ADUCK ID="id_23">
+      <NAME lang="English">Gladstone Gander</NAME>
+      <NAME lang="German">Gustav Gans</NAME>
+      <NAME lang="French">Gontran Bonheur</NAME>
+      <NAME lang="Swedish">Alexander Lukas</NAME>
+      <BERUF>keiner - Glueck reicht</BERUF>
+      <PIC>GUSTAV_GANS.jpg</PIC>
+   </ADUCK>
+   <ADUCK ID="id_24">
+      <NAME lang="English">Flinthart Glomgold</NAME>
+      <NAME lang="German">Mac Moneysac</NAME>
+      <NAME lang="Spanish">Gilberto Oro</NAME>
+      <NAME lang="Danish">Guld-Iver Flintesten</NAME>
+      <NAME lang="Polish">Granit Forsant</NAME>
+      <BERUF>Zweitrechste Ente der Welt (aber nicht mehr lange !)</BERUF>
+      <PIC>FLINTHART_GLOMGOLD.jpg</PIC>
+   </ADUCK>
+   <ADUCK ID="id_25">
+      <NAME lang="English">Darkwing Duck</NAME>
+      <NAME lang="German">Darkwing Duck</NAME>
+      <NAME lang="French">Mystermask</NAME>
+      <NAME lang="Spanish">Pato Darkwing</NAME>
+      <BERUF>Schrecken der Boesewichte</BERUF>
+      <PIC>DARKWING.jpg</PIC>
+   </ADUCK>
+   <ADUCK ID="id_26">
+      <NAME lang="English">Phantomias</NAME>
+      <NAME lang="German">Phantomias</NAME>
+      <BERUF>Held der dunklen Nacht</BERUF>
+      <PIC>PHANTOMIAS.jpg</PIC>
+   </ADUCK>
+</DUCKS>
