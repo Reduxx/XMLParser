@@ -19,11 +19,13 @@ int main() {
     cout << "| © 2015 Simon Sperling   |" << endl;
     cout << "---------------------------\n" << endl;
     string end = "<DUCKS>";
-    XMLClass x;
+    XMLClass x("res/xml/DUCKS.xml");
+    /*
     x.loadXML("res/xml/DUCKS.xml");
     x.changeLine(0, "<DUCKS>");
     x.helper();
     x.saveXML("res/xml/DUCKS.xml");
+     */
     //x.printXML();
 
     return 0;
